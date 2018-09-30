@@ -1,0 +1,7 @@
+C:\Users\DELL\Documents\Estrctura de datos\T2-1RamirezGarciaJesus\T2-1RamirezGarciaJesus\bin\Debug\T2-1RamirezGarciaJesus.exe.config
+C:\Users\DELL\Documents\Estrctura de datos\T2-1RamirezGarciaJesus\T2-1RamirezGarciaJesus\bin\Debug\T2-1RamirezGarciaJesus.exe
+C:\Users\DELL\Documents\Estrctura de datos\T2-1RamirezGarciaJesus\T2-1RamirezGarciaJesus\bin\Debug\T2-1RamirezGarciaJesus.pdb
+C:\Users\DELL\Documents\Estrctura de datos\T2-1RamirezGarciaJesus\T2-1RamirezGarciaJesus\obj\Debug\T2-1RamirezGarciaJesus.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\Estrctura de datos\T2-1RamirezGarciaJesus\T2-1RamirezGarciaJesus\obj\Debug\T2-1RamirezGarciaJesus.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Estrctura de datos\T2-1RamirezGarciaJesus\T2-1RamirezGarciaJesus\obj\Debug\T2-1RamirezGarciaJesus.exe
+C:\Users\DELL\Documents\Estrctura de datos\T2-1RamirezGarciaJesus\T2-1RamirezGarciaJesus\obj\Debug\T2-1RamirezGarciaJesus.pdb
