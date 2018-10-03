@@ -1,0 +1,7 @@
+C:\Users\DELL\Documents\Estrctura de datos\PE2RamirezGarciaJesus\PE2RamirezGarciaJesus\bin\Debug\PE2RamirezGarciaJesus.exe.config
+C:\Users\DELL\Documents\Estrctura de datos\PE2RamirezGarciaJesus\PE2RamirezGarciaJesus\bin\Debug\PE2RamirezGarciaJesus.exe
+C:\Users\DELL\Documents\Estrctura de datos\PE2RamirezGarciaJesus\PE2RamirezGarciaJesus\bin\Debug\PE2RamirezGarciaJesus.pdb
+C:\Users\DELL\Documents\Estrctura de datos\PE2RamirezGarciaJesus\PE2RamirezGarciaJesus\obj\Debug\PE2RamirezGarciaJesus.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\Estrctura de datos\PE2RamirezGarciaJesus\PE2RamirezGarciaJesus\obj\Debug\PE2RamirezGarciaJesus.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Estrctura de datos\PE2RamirezGarciaJesus\PE2RamirezGarciaJesus\obj\Debug\PE2RamirezGarciaJesus.exe
+C:\Users\DELL\Documents\Estrctura de datos\PE2RamirezGarciaJesus\PE2RamirezGarciaJesus\obj\Debug\PE2RamirezGarciaJesus.pdb
